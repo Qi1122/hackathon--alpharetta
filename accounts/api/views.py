@@ -51,9 +51,6 @@ class AccountViewSet(viewsets.ViewSet):
 
     @action(methods=['POST'], detail=False)
     def logout(self, request):
-        """
-        登出当前用户
-        """
         django_logout(request)
         return Response({"success": True})
 
@@ -79,9 +76,6 @@ class AccountViewSet(viewsets.ViewSet):
 
     @action(methods=['GET'], detail=False)
     def login_status(self, request):
-        """
-        查看用户当前的登录状态和具体信息
-        """
         data = {'has_logged_in': request.user.is_authenticated}
         if request.user.is_authenticated:
             data['user'] = UserSerializer(request.user).data
