@@ -4,6 +4,6 @@ Tech Alpharetta Women’s Forum is to advance opportunities for females working 
 
 The goal of this project is to provide a platform demo of user registration, mentor-mentee matching, and appointment scheduling for Tech Alpharetta.
 
-(backend-architecture-diagram.png)
+![backend diagram](backend-architecture-diagram.png)
 
 https://github.com/Qi1122/hackathon--alpharetta/blob/main/backend-architecture-diagram.png?raw=true
