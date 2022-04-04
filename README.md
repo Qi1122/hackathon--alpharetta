@@ -6,4 +6,4 @@ The goal of this project is to provide a platform demo of user registration, men
 
 (backend-architecture-diagram.png)
 
-https://github.com/Qi1122/hackathon--alpharetta/blob/main/backend-architecuture-diagram.png?raw=true
+https://github.com/Qi1122/hackathon--alpharetta/blob/main/backend-architecture-diagram.png?raw=true
