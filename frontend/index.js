@@ -26,7 +26,7 @@ function validateLoginForm() {
 		return false;
 	}
 	else {
-		return window.open("file:///Users/muktamaheshwari/Desktop/Hackathon%20front%20end/main_page.html");
+		return window.open("file:main_page.html");
 	}
 }
 function validateSignupForm() {
@@ -44,6 +44,6 @@ function validateSignupForm() {
 		return false;
 	}
 	else {
-		return window.open("file:///Users/muktamaheshwari/Desktop/Hackathon%20front%20end/Signup_form.html");
+		return window.open("file:Signup_form.html");
 	}
 }

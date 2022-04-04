@@ -8,7 +8,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Open sample.html",
-            "file": "/Users/muktamaheshwari/Desktop/Hackathon front end/login3.html"
+            "file": "login3.html"
         }
     ]
 }
